@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/23n009m2a5rsqvju?svg=true)](https://ci.appveyor.com/project/Dima19081988/matchers)
